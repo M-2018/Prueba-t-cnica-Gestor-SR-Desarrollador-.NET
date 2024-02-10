@@ -1,0 +1,14 @@
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\bin\Debug\net8.0\Funcionalidad_2.exe
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\bin\Debug\net8.0\Funcionalidad_2.deps.json
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\bin\Debug\net8.0\Funcionalidad_2.runtimeconfig.json
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\bin\Debug\net8.0\Funcionalidad_2.dll
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\bin\Debug\net8.0\Funcionalidad_2.pdb
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\obj\Debug\net8.0\Funcionalidad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\obj\Debug\net8.0\Funcionalidad_2.AssemblyInfoInputs.cache
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\obj\Debug\net8.0\Funcionalidad_2.AssemblyInfo.cs
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\obj\Debug\net8.0\Funcionalidad_2.csproj.CoreCompileInputs.cache
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\obj\Debug\net8.0\Funcionalidad_2.dll
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\obj\Debug\net8.0\refint\Funcionalidad_2.dll
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\obj\Debug\net8.0\Funcionalidad_2.pdb
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\obj\Debug\net8.0\Funcionalidad_2.genruntimeconfig.cache
+C:\Alucard\Practicas\Prueba técnica Gestor SR – Desarrollador .NET\Funcionalidad_2\obj\Debug\net8.0\ref\Funcionalidad_2.dll
